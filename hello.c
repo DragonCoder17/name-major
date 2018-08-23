@@ -1,8 +1,8 @@
 /**
- * Author: Noah Anderson and Manuel Paredes-Castaneda
- * Date: 2018/21/08
+ * Author: Noah Anderson
+ * Date: 2018/23/08
  *
- * A simple hello world program in C
+ * A simple program that states the name and major of the author(s)
  *
  */
 #include<stdlib.h>
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Noah Anderson and Manuel Paredes-Castaneda\n");
+  printf("I'm Noah Anderson and I'm majoring in Computer Science\n");
 
   return 0;
 }
